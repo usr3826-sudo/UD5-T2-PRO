@@ -45,4 +45,9 @@ public class Videojuego {
     public void setPuntuacion(int puntuacion) {
         this.puntuacion = puntuacion;
     }
+
+    @Override
+    public String toString() {
+        return nombre + " - " + genero + " - " + plataforma + " - Puntuación: " + puntuacion;
+    }
 }
