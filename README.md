@@ -1,19 +1,39 @@
-## Getting Started
+# 🎮 CRUD Videojuegos
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## 📌 Descripción
 
-## Folder Structure
+Aplicación hecha en Java en el que puedes gestionar un listado de videojuegos hecho con  un sistema CRUD (Crear, Leer, Actualizar y Eliminar). La interacción con el usuario se hace usando cuadros de diálogo en el que he utilizado JOptionPane.
 
-The workspace contains two folders by default, where:
+---
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## ⚙️ Funcionalidades
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+* Añadir videojuego
+* Editar videojuego
+* Mostrar listado de videojuegos
+* Eliminar videojuego
+* Salir del programa
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+---
 
-## Dependency Management
+## 🧠 Tecnologías utilizadas
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
-"# UD5-T2-PRO"  
+* Java
+* ArrayList (gestión dinámica de datos)
+* JOptionPane (interfaz gráfica)
+* Control de excepciones (try-catch)
+
+---
+
+## ▶️ Uso del programa
+
+1. Ejecutar la clase `App.java`
+2. Seleccionar una opción del menú
+3. Introducir los datos solicitados en las ventanas emergentes
+4. Gestionar los videojuegos según necesidad
+
+---
+
+## Autor
+
+Adrián Jacob Ramos Reverón 
