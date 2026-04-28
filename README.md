@@ -1,12 +1,12 @@
-# 🎮 CRUD Videojuegos
+#  CRUD Videojuegos
 
-## 📌 Descripción
+##  Descripción
 
 Aplicación hecha en Java en el que puedes gestionar un listado de videojuegos hecho con  un sistema CRUD (Crear, Leer, Actualizar y Eliminar). La interacción con el usuario se hace usando cuadros de diálogo en el que he utilizado JOptionPane.
 
 ---
 
-## ⚙️ Funcionalidades
+## Funcionalidades
 
 * Añadir videojuego
 * Editar videojuego
@@ -16,7 +16,7 @@ Aplicación hecha en Java en el que puedes gestionar un listado de videojuegos h
 
 ---
 
-## 🧠 Tecnologías utilizadas
+## Tecnologías utilizadas
 
 * Java
 * ArrayList (gestión dinámica de datos)
@@ -25,7 +25,7 @@ Aplicación hecha en Java en el que puedes gestionar un listado de videojuegos h
 
 ---
 
-## ▶️ Uso del programa
+## Uso del programa
 
 1. Ejecutar la clase `App.java`
 2. Seleccionar una opción del menú
